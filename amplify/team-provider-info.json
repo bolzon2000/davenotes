@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "davenotes-20181121124353-authRole",
+            "UnauthRoleArn": "arn:aws:iam::676550729376:role/davenotes-20181121124353-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::676550729376:role/davenotes-20181121124353-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "davenotes-20181121124353-deployment",
+            "UnauthRoleName": "davenotes-20181121124353-unauthRole",
+            "StackName": "davenotes-20181121124353",
+            "StackId": "arn:aws:cloudformation:us-west-2:676550729376:stack/davenotes-20181121124353/28f08f60-edce-11e8-92fd-0a578203aa12"
+        },
+        "categories": {
+            "auth": {
+                "cognito20ed83af": {}
+            }
+        }
+    }
+}
